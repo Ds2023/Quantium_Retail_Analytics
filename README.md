@@ -1,7 +1,6 @@
 ## Quantium_Retail_Analytics
 
-## [Certificate of Completion](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_vLsQ2xy7gTZ5CaSz9_1694527825407_completion_certificate.pdf) 
-![image](https://github.com/Ds2023/Quantium_Retail_Analytics/blob/main/Quantium_Certificate.pdf)
+## [Certificate of Completion](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_vLsQ2xy7gTZ5CaSz9_1694527825407_completion_certificate.pdf)
 
 ## About Quantium:
 
