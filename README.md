@@ -1,7 +1,5 @@
 ## Quantium_Retail_Analytics
 
-## [Certificate of Completion](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_vLsQ2xy7gTZ5CaSz9_1694527825407_completion_certificate.pdf)
-
 ## About Quantium:
 
 Founded in 2002, Quantium is a leading data science and AI firm focused on delivering solutions in data and technology. 
